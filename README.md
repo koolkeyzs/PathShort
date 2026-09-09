@@ -5,7 +5,7 @@ Pathshort is a full-stack URL shortener built for people who want more than just
 Most link shorteners stop at "shorten and redirect." Pathshort goes further by treating every link as a small data source: who clicked it, when, and from where — then surfacing that in a clean, readable dashboard.
 
 ## 🚀 Live Demo
-- **App:** 
+- **App:** [https://path-short-smjj.vercel.app/]
 - **API:** [https://pathshort.onrender.com/]
 
 ![Pathshort Dashboard](./public/pathshort.png)
