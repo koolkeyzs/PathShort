@@ -6,7 +6,7 @@ Most link shorteners stop at "shorten and redirect." Pathshort goes further by t
 
 ## 🚀 Live Demo
 - **App:** 
-- **API:** 
+- **API:** [https://pathshort.onrender.com/]
 
 ![Pathshort Dashboard](./public/pathshort.png)
 
