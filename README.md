@@ -8,7 +8,7 @@ Most link shorteners stop at "shorten and redirect." Pathshort goes further by t
 - **App:** [your-vercel-link.vercel.app]
 - **API:** [your-render-link.onrender.com]
 
-![Pathshort Dashboard](./screenshot.png)
+![Pathshort Dashboard](./pathshort.png)
 
 ## ✨ Key Features
 - **Instant shortening** — turn any long URL into a compact, shareable link
