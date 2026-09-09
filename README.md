@@ -74,4 +74,4 @@ Building Pathshort meant thinking beyond CRUD:
 MIT
 
 ---
-*Built by [KELVIN OSASOGIE] · [https://github.com/koolkeyzs/PathShort]
+Built by [KELVIN OSASOGIE] · [https://github.com/koolkeyzs/PathShort]
