@@ -1,6 +1,6 @@
 require('dotenv').config();
 const express = require('express');
-const mongoose = require('mongoose');
+const mongoose = require('mongoose')
 const cors = require('cors');
 const { nanoid } = require('nanoid');
 const Url = require('./models/Url');
@@ -32,6 +32,10 @@ app.post('/api/shorten', async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: 'Something went wrong' });
   }
+});
+
+app.get('/', (req, res) => {
+  res.send('Pathshort API is running 🚀');
 });
 
 // Get all URLs (for dashboard list)
